@@ -1,2 +1,1 @@
-# tu-gorda
-repositorio de prueba m2 pc henrry
+este es un proyecto de prueba de como crear un frepositorio y clonarlo desde git hub a mi compu
